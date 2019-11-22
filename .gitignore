@@ -6,3 +6,5 @@
 nlp/Bag-of-Words-Meets-Bags-of-Popcorn/Overview/300features_40minwords_10context
 nlp/gendered-pronoun-resolution/input/test_stage_2.tsv
 nlp/gendered-pronoun-resolution/input/test_stage_1.tsv
+nlp/Bag-of-Words-Meets-Bags-of-Popcorn/notebook/transcription/NB03_trigrams_model.wv.vectors.npy
+nlp/Bag-of-Words-Meets-Bags-of-Popcorn/notebook/transcription/NB03_trigrams_model.trainables.syn1neg.npy

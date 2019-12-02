@@ -10,3 +10,12 @@ nlp/Bag-of-Words-Meets-Bags-of-Popcorn/notebook/transcription/NB03_trigrams_mode
 nlp/Bag-of-Words-Meets-Bags-of-Popcorn/notebook/transcription/NB03_trigrams_model.trainables.syn1neg.npy
 nlp/Jigsaw-Unintended-Bias-in-Toxicity-Classification/input/fasttext-crawl-300d-2m/crawl-300d-2M.vec
 nlp/Jigsaw-Unintended-Bias-in-Toxicity-Classification/input/fasttext-crawl-300d-2m/embedding-model-sample.vec
+nlp/Jigsaw-Unintended-Bias-in-Toxicity-Classification/notebook/transcription/best_model_fold_0.hdf5
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/swords.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/gas-mask.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/anger.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/safe-zone.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/biohazard-symbol.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/toxic-sign.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/bomb.png
+nlp/Toxic-Comment-Classification-Challenge/input/imagesforkernal/megaphone.png
